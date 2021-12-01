@@ -1,0 +1,112 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Bass Guitar",
+        "no_of_teachers": "4",
+        "no_of_students": "88",
+        "course_duration": 25,
+        "course_rating": 5,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2015/08/29/14/18/bass-913092__340.jpg",
+        "price": 145
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Grand Piano",
+        "no_of_teachers": "8",
+        "no_of_students": "88",
+        "course_duration": 32,
+        "course_rating": 5,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2014/05/21/15/47/piano-349928__480.jpg",
+        "price": 112
+    },
+    {
+        "key": "B01K1IO3QW",
+        "name": "Harmonica",
+        "no_of_teachers": "7",
+        "no_of_students": "88",
+        "course_duration": 45,
+        "course_rating": 5,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2015/02/18/20/23/harmonica-641425__340.jpg",
+        "price": 221
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Ukulele",
+        "no_of_teachers": "3",
+        "no_of_students": "88",
+        "course_duration": 24,
+        "course_rating": 5,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2016/07/31/18/23/ukulele-1559617__340.jpg",
+        "price": 115
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Violin",
+        "no_of_teachers": "5",
+        "no_of_students": "88",
+        "course_duration": 33,
+        "course_rating": 4,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2016/11/23/14/48/bowed-instrument-1853324__340.jpg",
+        "price": 245
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Saxophone",
+        "no_of_teachers": "7",
+        "no_of_students": "88",
+        "course_duration": 41,
+        "course_rating": 3,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2015/09/02/13/08/saxophone-918904__340.jpg",
+        "price": 312
+    },
+    {
+        "key": "B015WXL0C6",
+        "name": "Xylophone",
+        "no_of_teachers": "4",
+        "no_of_students": "88",
+        "course_duration": 51,
+        "course_rating": 5,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2019/11/01/15/22/music-4594482__340.jpg",
+        "price": 186
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "name": "Pipe organ",
+        "no_of_teachers": "2",
+        "no_of_students": "88",
+        "course_duration": 55,
+        "course_rating": 2,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2015/03/12/04/23/pipe-organ-669589__340.jpg",
+        "price": 423
+    },
+    {
+        "key": "B06XJJG4PD",
+        "name": "Flute",
+        "no_of_teachers": "6",
+        "no_of_students": "88",
+        "course_duration": 15,
+        "course_rating": 4,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2014/07/31/23/07/man-407117__340.jpg",
+        "price": 105
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "name": "Harp",
+        "no_of_teachers": "9",
+        "no_of_students": "88",
+        "course_duration": 27,
+        "course_rating": 3,
+        "starCount": 2899,
+        "img": "https://cdn.pixabay.com/photo/2016/04/17/23/43/concert-1335779__340.jpg",
+        "price": 245
+    }
+]

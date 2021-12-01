@@ -1,0 +1,17 @@
+
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.carousel-item img{
+    height: 600px;
+}
+.headings h1{
+    color: rgb(18, 54, 42);
+}
+p{
+    color: aliceblue;
+}
+.carousel-caption p{
+    line-height: 20px;
+}

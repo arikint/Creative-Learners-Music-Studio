@@ -1,0 +1,14 @@
+.visa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.visa img{
+    padding: 50px;
+    width: 450px;
+    height: 300px;
+}
+.form-check-label{
+    padding-left: 10px;
+}
